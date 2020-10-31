@@ -1,4 +1,4 @@
-# Spike Analysis Tool
+# SpikeBurster
 
 #### This repo contains the code for quick spike analysis tool 
 
