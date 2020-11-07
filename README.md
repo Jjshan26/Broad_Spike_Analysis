@@ -2,17 +2,17 @@
 
 #### This repo contains the code for a fast spike analysis tool 
 
-There are three ways to run this tool: jupyter notebook, batch process and dash website.
+There are three ways to run this tool: jupyter notebook, batch process, and dash website.
 
 ___
 To run the tool as a jupyter notebook:
 
-open simple.ipynb, change the folder you want to load the spike file from, pick the file and pick the burst as noted in the notebook.
+Open the simple.ipynb file, change the folder you want to load the spike file from, pick the file, and select the burst as commented in the notebook.
 
 ___
 To run the tool through batch process:
 
-run the batch_main.py in python command line with the following arguments:
+Run the batch_main.py in python command line with the following arguments:
     input_dir 
     output_dir 
     save_plot=True 
@@ -20,4 +20,4 @@ run the batch_main.py in python command line with the following arguments:
 ___
 To run the tool as a website:
 
-run dash_app.py in command line. it should start a web site.
+Run dash_app.py in command line and it should start the website.
